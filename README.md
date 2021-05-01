@@ -1,6 +1,6 @@
 # IMPLEMENTATION of [TI-CNN: Convolutional Neural Networks for Fake News Detection](https://arxiv.org/pdf/1806.00749v1.pdf)
 
-This document contains instructions to [rebuild preprocessed data](#prepro), [reproduce results](#resu) and [test our pre-trained hdf5 models](#pretr). [TICNN_REPORT](https://github.com/coderjedi/Data-Mining-Assignment-TICNN/blob/main/TICNN-Implementation/TICNN_REPORT.pdf) contains the technical documentation of our implementation combined with description of the novel TI-CNN-TITLE-1000 model proposed and experimental results obtained.  
+This document contains instructions to [rebuild preprocessed data](#preprocessing-original-data), [reproduce results](#reproducing-results) and [test our pre-trained hdf5 models](#using-pretrained-models). [TICNN_REPORT](https://github.com/coderjedi/Data-Mining-Assignment-TICNN/blob/main/TICNN-Implementation/TICNN_REPORT.pdf) contains the technical documentation of our implementation combined with description of the novel TI-CNN-TITLE-1000 model proposed and experimental results obtained.  
 
 
 ## [Preprocessing Original Data](#prepro)
